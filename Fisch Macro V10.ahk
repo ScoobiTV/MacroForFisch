@@ -12,7 +12,7 @@ SetTitleMatchMode 2
 KeyInputDelayForImportantKeys := 250
 AutoLowGraphics := false
 AutoCamera := true
-AutoZoom := true
+AutoZoom := false
 AutoLookDown := true
 AutoBlur := true
 AutoShutdown := false
